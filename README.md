@@ -30,8 +30,8 @@ NVIDIA API key for meta/llama-3.1-70b-instruct
 
 ## Getting Started:
 step 1: Installation
+git clone https://github.com/BigDataIA-Fall2024-TeamA3/assignment3.git
 
-git clone https://github.com/yourusername/repository.git
 
 step2: Create env file:
 
